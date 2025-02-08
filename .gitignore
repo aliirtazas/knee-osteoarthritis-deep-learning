@@ -161,3 +161,13 @@ cython_debug/
 
 # Project-specific directories
 /KneeXray/
+/KneeXray/train/
+/KneeXray/test/
+/PreprocessedAll5/
+/PreprocessedAll5/train/
+/PreprocessedAll5/test/
+/PreprocessedAll5/auto_test/
+/PreprocessedAll5/val/
+/PreprocessedValidation/
+/PreprocessedValidation/train/
+/PreprocessedValidation/test/
