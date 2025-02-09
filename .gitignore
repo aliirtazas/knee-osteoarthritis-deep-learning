@@ -174,3 +174,8 @@ cython_debug/
 
 vgg19_best.weights.h5
 vgg19_model.h5
+
+xception_best.ckpt.index
+xception_best.ckpt.data-00000-of-00001
+xception_best.ckpt.index
+xception_model.h5
