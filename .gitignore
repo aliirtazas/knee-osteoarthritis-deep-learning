@@ -171,3 +171,6 @@ cython_debug/
 /PreprocessedValidation/
 /PreprocessedValidation/train/
 /PreprocessedValidation/test/
+
+vgg19_best.weights.h5
+vgg19_model.h5
