@@ -179,3 +179,5 @@ xception_best.ckpt.index
 xception_best.ckpt.data-00000-of-00001
 xception_best.ckpt.index
 xception_model.h5
+best_resnet_model.h5
+best_efficientnet_model.h5
